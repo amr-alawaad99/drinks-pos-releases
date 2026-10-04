@@ -4,6 +4,12 @@
     <title>Desert &amp; Drinks POS</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 1.0.4 (4)</title>
+      <description>أصبحت نافذة التحديث تظهر عند كل تشغيل للتطبيق حتى يتم التحديث، مع زرَّي «لاحقًا» و«تحديث» فقط.</description>
+      <pubDate>Sun, 04 Oct 2026 11:51:52 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/drinks-pos-releases/releases/download/v1.0.4/drinks-pos-1.0.4.apk" sparkle:version="1.0.4" sparkle:os="android" type="application/vnd.android.package-archive" />
+    </item>
+    <item>
       <title>Version 1.0.3 (3)</title>
       <description>تحسينات في شاشة البيع والفئات، وأصبح سجل الفواتير أسرع مع إمكانية التصفية حسب التاريخ، وعرض الوردية المفتوحة في الشاشة الرئيسية، وحفظ إظهار الأصناف وإخفائها على الخادم.</description>
       <pubDate>Sun, 04 Oct 2026 11:44:11 GMT</pubDate>
