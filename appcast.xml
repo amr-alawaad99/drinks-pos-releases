@@ -4,6 +4,16 @@
     <title>Desert &amp; Drinks POS</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 1.0.6 (6)</title>
+      <description>- طباعة تذكرة المطبخ وفاتورة العميل معًا بزر واحد بعد كل طلب، مع قص الورق بينهما، وتأكيد قبل الرجوع بدون طباعة.
+- تصميم جديد لتذكرة المطبخ وفاتورة العميل وتقرير الوردية (الخزينة)، مع ملخص الأصناف والأحجام والفئات، والمباع والمرتجع لكل صنف.
+- إظهار حجم الصنف بجانب اسمه في الفواتير والتقارير.
+- طباعة الشعار والتظليل بشكل أوضح على الطابعة الحرارية.
+- إصلاح تداخل النصوص في مربعات الشاشة الرئيسية على بعض الأجهزة.</description>
+      <pubDate>Tue, 06 Oct 2026 14:30:04 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/drinks-pos-releases/releases/download/v1.0.6/drinks-pos-1.0.6.apk" sparkle:version="1.0.6" sparkle:os="android" type="application/vnd.android.package-archive" />
+    </item>
+    <item>
       <title>Version 1.0.5 (5)</title>
       <description>إصلاح زر «تحديث» في نافذة التحديث، إذ أصبح يفتح رابط تنزيل النسخة الجديدة في المتصفح.</description>
       <pubDate>Sun, 04 Oct 2026 12:08:30 GMT</pubDate>
