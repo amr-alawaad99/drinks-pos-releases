@@ -4,6 +4,14 @@
     <title>Desert &amp; Drinks POS</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 1.0.8 (8)</title>
+      <description>- صلاحيات المدير والمشرف والكاشير
+- تقرير المنتجات حسب رقم الوردية، مع ملخص الفئات
+- ترتيب الأحجام بشكل صحيح</description>
+      <pubDate>Sun, 11 Oct 2026 12:12:28 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/drinks-pos-releases/releases/download/v1.0.8/drinks-pos-1.0.8.apk" sparkle:version="1.0.8" sparkle:os="android" type="application/vnd.android.package-archive" />
+    </item>
+    <item>
       <title>Version 1.0.7 (7)</title>
       <description>- تقارير الوردية والمنتجات مع تصدير PDF و Excel
 - إعدادات الطابعة وطباعة تذكرة المطبخ تلقائيًا
