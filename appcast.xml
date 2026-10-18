@@ -4,6 +4,17 @@
     <title>Desert &amp; Drinks POS</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 1.0.9 (9)</title>
+      <description>- تفعيل الجهاز: بعد التحديث سيُطلب مفتاح التفعيل مرة واحدة، أرسل صورة شاشة التفعيل لدعم ترو تيك عبر WhatsApp
+- تقرير الورديات يعرض الإجمالي والخصومات والصافي
+- تصدير Excel للتقارير في صفحة واحدة
+- طباعة تقارير الورديات والمنتجات
+- تسجيل الدخول عند كل فتح للتطبيق، وزر تسجيل الخروج في الشاشة الرئيسية
+- يمكن الخروج من شاشة فاتورة العميل مباشرة بعد طباعة تذكرة المطبخ، مع خيار في إعدادات الطابعة لعدم فتحها بعد البيع</description>
+      <pubDate>Sun, 18 Oct 2026 13:39:12 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/drinks-pos-releases/releases/download/v1.0.9/DnD-1.0.9.apk" sparkle:version="1.0.9" sparkle:os="android" type="application/vnd.android.package-archive" />
+    </item>
+    <item>
       <title>Version 1.0.8 (8)</title>
       <description>- صلاحيات المدير والمشرف والكاشير
 - تقرير المنتجات حسب رقم الوردية، مع ملخص الفئات
