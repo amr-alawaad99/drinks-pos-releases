@@ -4,6 +4,13 @@
     <title>Desert &amp; Drinks POS</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 1.0.11 (11)</title>
+      <description>- تحسينات وإصلاحات</description>
+      <pubDate>Tue, 20 Oct 2026 12:17:16 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/drinks-pos-releases/releases/download/v1.0.11/DnD-1.0.11.apk" sparkle:version="1.0.11" sparkle:os="android" type="application/vnd.android.package-archive" />
+      <sparkle:tags><sparkle:criticalUpdate /></sparkle:tags>
+    </item>
+    <item>
       <title>Version 1.0.10 (10)</title>
       <description>- إعداد التطبيق لكل جهاز: اسم الشركة ورابط الـ API والشعار، من مجلد D&amp;DConfig على الجهاز أو بإدخالها يدويًا (تظهر شاشة الإعداد مرة واحدة بعد التحديث)
 - شاشة الإعداد بالعربية والإنجليزية مع طريقة الإعداد خطوة بخطوة
