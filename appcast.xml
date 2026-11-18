@@ -4,6 +4,13 @@
     <title>Desert &amp; Drinks POS</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 2.0.1 (20)</title>
+      <description>إصلاح تنزيل التحديثات على أجهزة الكاشير</description>
+      <pubDate>Wed, 18 Nov 2026 12:41:20 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/drinks-pos-releases/releases/download/v2.0.1/DnD-2.0.1.apk" sparkle:version="2.0.1" sparkle:os="android" type="application/vnd.android.package-archive" />
+      <sparkle:tags><sparkle:criticalUpdate /></sparkle:tags>
+    </item>
+    <item>
       <title>Version 2.0.0 (19)</title>
       <description>دعم أجهزة الكاشير وطابعاتها المدمجة، والطباعة عبر البلوتوث، وتحسينات عامة</description>
       <pubDate>Wed, 18 Nov 2026 11:31:48 GMT</pubDate>
