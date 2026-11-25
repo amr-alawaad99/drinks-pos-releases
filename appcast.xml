@@ -4,6 +4,13 @@
     <title>Desert &amp; Drinks POS</title>
     <!-- Newest version first. Items are added by tool/release.sh in the app project. -->
     <item>
+      <title>Version 3.0.2 (27)</title>
+      <description>تحسينات وإصلاحات عامة</description>
+      <pubDate>Wed, 25 Nov 2026 14:53:41 GMT</pubDate>
+      <enclosure url="https://github.com/amr-alawaad99/drinks-pos-releases/releases/download/v3.0.2/DnD-3.0.2.apk" sparkle:version="3.0.2" sparkle:os="android" type="application/vnd.android.package-archive" />
+      <sparkle:tags><sparkle:criticalUpdate /></sparkle:tags>
+    </item>
+    <item>
       <title>Version 3.0.1 (26)</title>
       <description>تحسينات وإصلاحات عامة</description>
       <pubDate>Wed, 25 Nov 2026 14:46:50 GMT</pubDate>
